@@ -49,3 +49,7 @@ By initializing the sentiment polarities into 3 groups (positive, negative and n
 
 
 Overall Architecture:- 
+
+
+![Uploading Covid-19 view.png…]()
+
