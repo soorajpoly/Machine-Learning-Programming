@@ -28,26 +28,9 @@ Before running the code, ensure you have the following installed:
 	•	Jupyter Notebook
 	•	Required Python libraries:
 
-pip install pandas numpy matplotlib seaborn nltk tensorflow scikit-learn wordcloud spacy gensim
+
 
 Running the Notebook
-
-	1.	Clone the Repository:
-
-git clone https://github.com/your-repo-name/sentiment-analysis.git
-cd sentiment-analysis
-
-
-	2.	Dataset:
-	•	Ensure the data.csv file is present in the root directory.
-	•	The dataset should have the following structure:
-
-| tweet          | sentiment (optional) |
-|----------------|-----------------------|
-| Example tweet  | Positive/Negative/... |
-
-
-	3.	Launch Jupyter Notebook:
 
 jupyter notebook
 
