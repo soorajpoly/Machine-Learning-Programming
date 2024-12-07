@@ -17,6 +17,8 @@ Features
 	•	Sentiment distribution bar charts.
 	•	Accuracy and loss line charts for both models.
 
+Dataset :- https://www.kaggle.com/datasets/ritesh2000/covid19-vaccine-tweets
+
 Getting Started
 
 Prerequisites
