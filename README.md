@@ -51,5 +51,5 @@ By initializing the sentiment polarities into 3 groups (positive, negative and n
 Overall Architecture:- 
 
 
-![Uploading Covid-19 view.png…]()
 
+<img src = "https://github.com/soorajpoly/Machine-Learning-Programming/blob/main/Covid-19%20view.png">
